@@ -4,6 +4,9 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Телекомуникации](https://github.com/VasilenkoPavel/Portfolio/blob/main/telecommunications/57bb4a1f-2c9b-4e75-b452-00c8206dc72d%20(1).ipynb) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
+| 1.   | [Телекомуникации](https://github.com/VasilenkoPavel/Portfolio/blob/main/telecommunications/57bb4a1f-2c9b-4e75-b452-00c8206dc72d%20(1).ipynb) | Прогнозирование оттока клиентов <br/>для оператора связи | python, pandas, numpy, catboost, sklearn, matplotlib, phik, shap, seaborn       |
 | 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
 | 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
+
+
+Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов
