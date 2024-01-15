@@ -1,6 +1,6 @@
 # Описание проекта: телекоммуникации
 
-[ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[ipynb](telecommunications/telecommunications.ipynb)
 
 ## Описание проекта
 
