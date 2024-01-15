@@ -1,6 +1,6 @@
 # Описание проекта: телекоммуникации
 
-[ipynb](telecommunications/telecommunications.ipynb](https://github.com/VasilenkoPavel/Portfolio/blob/main/telecommunications/telecommunications.ipynb)
+[ipynb](https://github.com/VasilenkoPavel/Portfolio/blob/main/telecommunications/telecommunications.ipynb)
 
 ## Описание проекта
 
